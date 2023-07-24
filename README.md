@@ -1,2 +1,3 @@
-# javascript-tipos-variaveis-funcoes
- Curso Alura - JS (tipos, variáveis e funções)
+# Introdução ao JavaScript
+
+Curso Alura - Tipos, Variáveis e Funções)
