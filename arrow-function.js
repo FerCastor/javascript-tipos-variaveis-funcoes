@@ -24,3 +24,4 @@ const somaNumerosPequenos = (num1, num2) => {
 console.log(somaNumerosPequenos(5, 6));
 console.log(`Apresentando da função apresentar(nome): ${apresentar('Fernanda')}`)
 console.log(`Apresentando da função apresentarArrow(nome): ${apresentarArrow('Fernanda')}`)
+

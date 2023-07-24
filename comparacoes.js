@@ -16,3 +16,4 @@ console.log(typeof texto)
 
 Number()
 String()
+

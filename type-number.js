@@ -21,4 +21,4 @@ console.log(novaOperacao.toFixed(2))
 // NaN -> Not A Number (não é um número)
 
 const alura = "Alura";
-console.log(alura * primeiroNumero)
+console.log(alura * primeiroNumero);

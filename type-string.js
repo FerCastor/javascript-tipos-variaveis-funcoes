@@ -8,6 +8,6 @@ const meuNome = "Fer";
 
 // concatenação (+)
 
-console.log(citacao + meuNome)
+console.log(citacao + meuNome);
 
 //template string OU template literal

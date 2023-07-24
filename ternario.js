@@ -8,4 +8,4 @@ if (idadeCliente >= idadeMinima) {
 }
 
             //condição                    //true     //false
-console.log(idadeCliente >= idadeMinima ? "cerveja" : "suco")
+console.log(idadeCliente >= idadeMinima ? "cerveja" : "suco");

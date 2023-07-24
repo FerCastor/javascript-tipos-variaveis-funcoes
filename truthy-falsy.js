@@ -34,3 +34,4 @@ console.log(typeof texto);
 
 console.log(typeof minhaVar);
 console.log(typeof varNull);
+

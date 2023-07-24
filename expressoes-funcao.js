@@ -21,4 +21,5 @@ function apresentar() {
 }
 
 const somaOutroExemplo = function(num1, num2) { return num1 + num2 }
-console.log(somaOutroExemplo(2, 2))
+console.log(somaOutroExemplo(2, 2));
+

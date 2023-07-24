@@ -28,16 +28,4 @@ function multiplica(numero1 = 1, numero2 = 1) {
 }
 
                             //9
-console.log(multiplica(soma(4, 5), soma(3,3)))
-
-
-
-
-
-
-
-
-
-
-
-
+console.log(multiplica(soma(4, 5), soma(3,3)));

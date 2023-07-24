@@ -15,5 +15,3 @@ minhaVar = false;
 console.log("Declarando boolean: " + minhaVar);
 console.log("Tipo da variável: " + typeof minhaVar);
 console.log();
-
-

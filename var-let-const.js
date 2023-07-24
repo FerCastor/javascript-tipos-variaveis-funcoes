@@ -31,4 +31,4 @@ if (forma === 'quadrado') {
   area = (altura * comprimento) / 2;
 }
 
-console.log(area)
+console.log(area);
